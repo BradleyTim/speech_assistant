@@ -1,0 +1,1 @@
+# A python speech assistant app built with Google Speech Recognition technology
